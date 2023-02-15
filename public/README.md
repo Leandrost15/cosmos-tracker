@@ -1,0 +1,1 @@
+"This directory contains all the files that will be publicly available, such as the index.html file, which is the main entry point for the app, and the favicon.ico file, which is the icon that appears in the browser tab." 

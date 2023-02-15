@@ -1,0 +1,1 @@
+This directory contains all the Redux sagas used in the application.

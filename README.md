@@ -29,6 +29,10 @@ The project will be divided into four waves, each with its own objectives and mi
 - Deploy the application to a hosting service, such as Heroku or AWS
 - Ensure the application is accessible and performs well on different devices and browsers
 
+## Architecture
+
+This application is built using the Flux architecture, which is a pattern for managing state in a predictable and efficient manner. The Flux architecture consists of several key components, including actions, stores, and views. Actions are responsible for updating the application's state, stores store the state and update it in response to actions, and views render the application's user interface based on the state stored in the stores.
+
 ## Getting started
 
 To get started with this project, follow these steps:
